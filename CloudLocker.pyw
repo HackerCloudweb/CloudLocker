@@ -55,4 +55,4 @@ Botoninicio = Button(root, bg="red", command=presionarBoton, text="Encriptar arc
 BotonParar = Button(root, bg="blue", command=pararTodo, text="Parar").pack()
 
 
-root.mainloop()
+root.mainloop() 
