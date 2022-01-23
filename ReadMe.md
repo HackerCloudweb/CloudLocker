@@ -11,5 +11,5 @@ copyrigth 2022 por HackerCloud | todos los derechos reservados
 
 Modo de uso:
 
-		Cambiar la palabra archivos de la variable items por la ruta que quieras encriptar (línea 35)
-		Cambiar la palabra archivos de la línea 46
+	Cambiar la palabra archivos de la variable items por la ruta que quieras encriptar (línea 35)
+	Cambiar la palabra archivos de la línea 46
